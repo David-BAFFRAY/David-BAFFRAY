@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/David-BAFFRAY=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/David-BAFFRAY=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 <!--
 **David-BAFFRAY/David-BAFFRAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
