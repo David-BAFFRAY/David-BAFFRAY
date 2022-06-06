@@ -1,4 +1,6 @@
-<h1 align="center"><img width="5px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" > Hi there, I'm David Baffray</h1> 
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" >
+<br>
+<h1 align="center">Hi there, I'm David Baffray</h1> 
 
 <h2 align="center">Favorite tech: </h2>
 
