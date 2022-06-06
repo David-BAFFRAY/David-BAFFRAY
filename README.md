@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
 </div>
 <br>
-<h1 align="center">Hi there, I'm David Baffray</h1> 
+<h1 align="center">Hey there, I'm David Baffray</h1> 
 
 <h2 align="center">Favorite tech: </h2>
 
