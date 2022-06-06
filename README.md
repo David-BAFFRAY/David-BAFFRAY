@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm David Baffray</h1> 
 
 <h2 align="center">Favorite tech: </h2>
-> Tools, languages, and other things that I like to work with.
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -69,7 +69,7 @@
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
 <div align="center">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=400 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
 </div>
 
 ---
