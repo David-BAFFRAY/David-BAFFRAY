@@ -4,7 +4,7 @@
 <br>
 <h1 align="center">Hey there, I'm David Baffray</h1> 
 
-<h2 align="center">My tech: </h2>
+<h2 align="center">My Tech: </h2>
 
 <table>
   <tr>
