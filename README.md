@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 align='center' src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+
+---
+
+<div>
+  <img height="800" align="center" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+</div>
 
 <!--
 **David-BAFFRAY/David-BAFFRAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
