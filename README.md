@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif">
-  <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA">Icons 8</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<div id="header" align="center">
+  <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"> -->
+  <a href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img src="./img/cherry.png"></a>
+  <br>
+  <h1 align="center">Hey there, I'm David Baffray</h1> 
 </div>
-<br>
-<h1 align="center">Hey there, I'm David Baffray</h1> 
 
 <h2 align="center">My Tech: </h2>
 
