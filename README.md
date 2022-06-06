@@ -2,11 +2,9 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 align='center' src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
-
 ---
-
 <div>
-  <img height="800" align="center" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&include_all_commits=true" />
 </div>
 
 <!--
