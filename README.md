@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <a target="_blank" href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img width="400" src="./img/cherry.png"></a>
+  <a target="_blank" href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img width="200" src="./img/cherry.png"></a>
   <br>
   <h1 align="center">Hey there, I'm David Baffray <br> I'm Developer Junior and I love it !</h1>
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/david-baffray"><img width="32" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://twitter.com/Np_Ng67"><img width="32" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://stackoverflow.com/users/4027349/david-baffray"><img width="32" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
+  <a href="https://www.linkedin.com/in/david-baffray"><img width="50" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/Np_Ng67"><img width="50" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://stackoverflow.com/users/4027349/david-baffray"><img width="50" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </div>
 
 <div id="section" align="center">
@@ -77,18 +77,23 @@
     </tr>
   </table>
 </div>
-<h2 align="center">🏆 Github Profile Trophy</h2>
-<div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+<div id="section">
+  <h2 align="center">🏆 Github Profile Trophy</h2>
+  <div align="right">
+    <img width="790" align="center" src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+  </div>
 </div>
 
 ---
 
-<div align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&show_icons=true&include_all_commits=true"/>
+<div id="section">
+  <div align="center">
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&show_icons=true&include_all_commits=true"/>
+  </div>
 </div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=David-BAFFRAY.David-BAFFRAY)
+
 <!--
 **David-BAFFRAY/David-BAFFRAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
