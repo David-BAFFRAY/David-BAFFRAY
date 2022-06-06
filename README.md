@@ -63,7 +63,7 @@
       <br>Javascript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#David-BAFFRAY-tech">
         <img src="./img/vuejs.svg" width="48" height="48" alt="Vuejs" />
       </a>
       <br>Vuejs
@@ -79,10 +79,10 @@
 ---
 
 <div align="left">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&show_icons=true&include_all_commits=true)
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 <div align="right">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=David-BAFFRAY&hide=TeX&layout=compact)
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-BAFFRAY&hide=TeX&layout=compact"/>
 </div>
 
 ---
