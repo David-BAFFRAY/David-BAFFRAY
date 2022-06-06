@@ -72,14 +72,17 @@
 </table>
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
-<div align="right">
+<div align="center">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
 </div>
 
 ---
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&count_private=true&include_all_commits=true" />
+<div align="left">
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+</div>
+<div align="right">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 </div>
 
 ---
@@ -91,6 +94,8 @@
   <a href="https://twitter.com/Np_Ng67"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://stackoverflow.com/users/4027349/david-baffray"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
 </div>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 <!--
 **David-BAFFRAY/David-BAFFRAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
