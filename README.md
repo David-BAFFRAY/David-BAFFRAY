@@ -68,8 +68,8 @@
 </table>
 
 <h2 align="center">🏆 Github Profile Trophy</h2>
-<div align="center">
-  <img width=400 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
+<div align="right">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
 </div>
 
 ---
