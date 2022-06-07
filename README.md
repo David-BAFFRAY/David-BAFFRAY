@@ -11,7 +11,7 @@
     <tr>
       <td align="center" width="96">
         <a href="#David-BAFFRAY-Back-End">
-          <img src="./img/php.svg" width="48" height="48" alt="Php"/>
+          <img src="./img/php-logo.svg" width="48" height="48" alt="Php"/>
         </a>
         <br>PHP
       </td>
