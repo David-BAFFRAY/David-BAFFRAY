@@ -10,16 +10,10 @@
 </div>
 
 <div id="section" align="center">
-  <h2 align="center">My Tech: </h2>
-
+  <h1 align="center">My Tech</h1>
+  <h2 align="center">Back-End</h2>
   <table>
     <tr>
-      <td align="center" width="96">
-        <a href="#David-BAFFRAY-tech">
-          <img src="./img/wordpress.svg" width="48" height="48" alt="WordPress" />
-        </a>
-        <br>WordPress
-      </td>
       <td align="center" width="96">
         <a href="#David-BAFFRAY-tech">
           <img src="./img/php.svg" width="48" height="48" alt="Php" />
@@ -38,6 +32,11 @@
         </a>
         <br>Mysql
       </td>
+    </tr>
+  </table>
+  <h2 align="center">Front-End</h2>
+    <table>
+     <tr>
       <td align="center" width="96">
         <a href="#David-BAFFRAY-tech">
           <img src="./img/html5.svg" width="48" height="48" alt="HTML" />
@@ -76,12 +75,26 @@
       </td>
     </tr>
   </table>
+  <h2 align="center">CMS</h2>
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <a href="#David-BAFFRAY-tech">
+            <img src="./img/wordpress.svg" width="48" height="48" alt="WordPress" />
+          </a>
+          <br>WordPress
+        </td>
+      </tr>
+    </table>
+ <h2 align="center">outils</h2>
+  <table>
+    <tr>
+    </tr>
+  </table>
 </div>
-<div id="section">
-  <h2 align="center">🏆 Github Profile Trophy</h2>
-  <div align="right">
-    <img width="790" align="center" src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
-  </div>
+<h2 align="center">🏆 Github Profile Trophy</h2>
+<div align="right">
+  <img width="790" align="center" src="https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true"/>
 </div>
 
 ---
