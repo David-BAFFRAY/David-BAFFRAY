@@ -46,12 +46,6 @@
       </td>
       <td align="center" width="96">
         <a href="#David-BAFFRAY-Front-End">
-          <img src="./img/parceljs.svg" width="48" height="48" alt="Parceljs"/>
-        </a>
-        <br>Parceljs
-      </td>
-      <td align="center" width="96">
-        <a href="#David-BAFFRAY-Front-End">
           <img src="./img/sass.svg" width="48" height="48" alt="Sass"/>
         </a>
         <br>Sass
@@ -113,6 +107,12 @@
           <img src="./img/npm-icon.svg" width="48" height="48" alt="NPM"/>
         </a>
         <br>NPM
+      </td>
+      <td align="center" width="96">
+        <a href="#David-BAFFRAY-Front-End">
+          <img src="./img/parceljs.svg" width="48" height="48" alt="Parceljs"/>
+        </a>
+        <br>Parceljs
       </td>
       <td align="center" width="96">
         <a href="#David-BAFFRAY-outils">
