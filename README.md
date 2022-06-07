@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <a target="_blank" href="https://icons8.com/illustrations/author/zD2oqC8lLBBA"><img width="200" src="./img/cherry.png"></a>
+  <img width="400" src="./img/pngwing.com.png">
   <br>
   <h1 align="center">Hey there, I'm David Baffray <br> I'm Junior Developer and I love it !</h1>
 </div>
