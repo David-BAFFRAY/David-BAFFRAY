@@ -1,5 +1,3 @@
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f956.png?v8">
-
 <div id="header" align="center">
   <img width="400" src="./img/pngwing.com.png">
   <br>
