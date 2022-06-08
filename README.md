@@ -123,14 +123,14 @@
     </tr>
   </table>
 </div>
-<h2 align="center">🏆 Github Profile Trophy</h2>
-<div id="section">
-  <div align="center">
-    <img align="right" width="800" src="https://github-profile-trophy.vercel.app/api?username=David-BAFFRAY&column=8&theme=gruvbox&no-frame=true">
-  </div>
-  <div align="center">
+<h2 align="center">🏆 Github Profile Trophy 🏆</h2>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-BAFFRAY&theme=dark_lover)](https://github.com/David-BAFFRAY/github-profile-trophy)
+  
+</div>
+<div align="center">
     <img width=500 height="250" src="https://github-readme-stats.vercel.app/api?username=David-BAFFRAY&theme=codeSTACKr&count_private=true&show_icons=true&include_all_commits=true"/>
-  </div>
 </div>
 
 ---
