@@ -1,7 +1,9 @@
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f956.png?v8">
+
 <div id="header" align="center">
   <img width="400" src="./img/pngwing.com.png">
   <br>
-  <h1 align="center">Hey there, I'm David Baffray <br> I'm Junior Developer and I love it !</h1>
+  <h1 align="center">Hey there, I'm David Baffray and<br> I'm Junior Developer and I love it !</h1>
 </div>
 
 <div id="section" align="center">
