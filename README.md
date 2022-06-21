@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img width="400" src="./img/pngwing.com.png">
+<!--   <img width="400" src="./img/pngwing.com.png"> -->
+  <a href="https://app.daily.dev/David67"><img src="https://api.daily.dev/devcards/54ae6ab717b44a26ac4f4e411870a8ac.png?r=8k9" width="200" alt="David BAFFRAY's Dev Card"/></a>
   <br>
   <h1 align="center">Hey there, I'm David Baffray and<br> I'm Junior Developer and I love it !</h1>
 </div>
